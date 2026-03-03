@@ -1,3 +1,3 @@
 # 2620Veci
 
-Hello, this is my first program.
+Hello, this is my first program with function.
